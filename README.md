@@ -73,13 +73,6 @@ Exchange rate used: 1.40 CAD per USD on 23 Oct 2026.
 - Finnhub: close of C$3,395 on 23 Oct 2026, daily candles to 23 Oct 2026.
 - Exchange rate: 1.40 CAD per USD on 23 Oct 2026.
 
-## Status
-
-- Published to GitHub: https://github.com/MunzeleenSarwar/constellation-software-buffett-memo-2026-oct
-- Not published to LinkedIn.
-- No LinkedIn post draft is included.
-- Projects B and C from the Buffett brainstorm (owner earnings comparison, capital allocation scorecard) are for later work. They are not part of this project.
-
 ## Disclaimer
 
 This is analysis for learning and portfolio use. It is not investment advice.
