@@ -75,8 +75,8 @@ Exchange rate used: 1.40 CAD per USD on 23 Oct 2026.
 
 ## Status
 
-- Local files only.
-- Not published to GitHub, LinkedIn, or any public site.
+- Published to GitHub: https://github.com/MunzeleenSarwar/constellation-software-buffett-memo-2026-oct
+- Not published to LinkedIn.
 - No LinkedIn post draft is included.
 - Projects B and C from the Buffett brainstorm (owner earnings comparison, capital allocation scorecard) are for later work. They are not part of this project.
 
